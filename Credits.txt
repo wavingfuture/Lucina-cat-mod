@@ -1,0 +1,14 @@
+Credits
+ ---
+All models from Fire Emblem Awakening, developed by Intelligent Systems.
+
+Models downloaded from models.spriters-resource.com, initially uploaded by LuigiTKO.
+
+Voice audio from Super Smash Brothers Ultimate, Lucina's VO performed by Laura Bailey.
+
+Audio downloaded from sounds.spriters-resource.com, uploaded by Random Talking Bush.
+
+All model and texture edits done personally by me, using Blender and Krita.
+
+Ending artwork by artists Kozaki Yuusuke, toi8, and Mayo
+ ---

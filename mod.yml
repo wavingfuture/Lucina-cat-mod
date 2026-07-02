@@ -264,6 +264,7 @@ assets:
   - name: remastered/obj/P_EX100_WI_KH1F.mdlx/-1.dds
   - name: remastered/obj/P_EX100_TR_KH1F.mdlx/-1.dds
   - name: remastered/obj/P_EX100_XM_KH1F.mdlx/-1.dds
+  - name: remastered/obj/P_EX100_TR_LIGHTCYCLE.mdlx/-1.dds
   method: copy
   source:
   - name: Texture/Texture1.dds
@@ -307,6 +308,7 @@ assets:
   - name: remastered/obj/P_EX100_WI_KH1F.mdlx/-0.dds
   - name: remastered/obj/P_EX100_TR_KH1F.mdlx/-0.dds
   - name: remastered/obj/P_EX100_XM_KH1F.mdlx/-0.dds
+  - name: remastered/obj/P_EX100_TR_LIGHTCYCLE.mdlx/-0.dds
   method: copy
   source:
   - name: Texture/Texture0.dds
